@@ -1,0 +1,1 @@
+/home/majkel/.config/omarchy/current/theme/neovim.lua
